@@ -377,6 +377,7 @@ function renderMenuItems() {
       return `
         <article class="menu-card" data-item-card="${escapeHtml(item.id)}">
           <div class="menu-card-top">
+            ${item.image ? `<img src="${escapeHtml(item.image)}" alt="" class="menu-item-img" loading="lazy" width="400" height="300" />` : ""}
             ${metaLine}
             <h3 class="menu-item-title">${escapeHtml(item.name)}</h3>
             <p class="menu-item-desc">${escapeHtml(item.description || "")}</p>
