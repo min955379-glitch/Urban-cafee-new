@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Placeholder 05: Birthday and Family Event Setup">
+  <!-- TODO: Replace with owner's official photograph of birthday table setup and event area -->
+  <rect width="800" height="600" fill="#F2EAE0"/>
+  <rect x="24" y="24" width="752" height="552" rx="10" fill="#FAF6F0" stroke="#D5C4AE" stroke-width="2"/>
+  <g transform="translate(400, 225)" fill="none" stroke="#2E4A29" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="0" cy="0" r="46" fill="#F2EAE0" stroke="#C4B29B"/>
+    <rect x="-18" y="-12" width="36" height="28" rx="4"/>
+    <path d="M-10 -20v8M10 -20v8M-18 -2h36"/>
+  </g>
+  <text x="400" y="315" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="700" fill="#2E4A29" letter-spacing="2">GALLERY SLOT 05</text>
+  <text x="400" y="350" text-anchor="middle" font-family="Georgia, serif" font-size="24" font-weight="bold" fill="#231710">Birthday &amp; Family Celebrations</text>
+  <text x="400" y="385" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#5C4738">Private Table Arrangements &amp; Group Gatherings</text>
+  <text x="400" y="425" text-anchor="middle" font-family="monospace" font-size="12" fill="#7A6250">[TODO: Replace with owner photo — 800 x 600 px]</text>
+</svg>

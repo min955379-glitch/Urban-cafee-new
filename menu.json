@@ -1,0 +1,396 @@
+{
+  "_comment": "TODO: Replace all Rs. --- price placeholders and null numericPrice values with confirmed menu pricing from the owner of Urban Cafe & Restaurant.",
+  "restaurant": "Urban Cafe & Restaurant",
+  "location": "Jadoon Plaza Phase 2, Mandian, Abbottabad",
+  "currency": "PKR",
+  "categories": [
+    "Popular",
+    "Soups",
+    "Urban Special Burger & Pizza Deals",
+    "Chinese",
+    "Appetizers",
+    "Chopsuey & Noodles",
+    "Platters",
+    "Salads",
+    "Pizza",
+    "Burgers",
+    "Sandwiches",
+    "Rice Corner",
+    "Chicken Speciality",
+    "Sea Foods",
+    "Pasta",
+    "Steaks",
+    "Cold Beverages"
+  ],
+  "items": [
+    {
+      "id": "soup-corn-single",
+      "name": "Chicken Corn Soup",
+      "category": "Soups",
+      "description": "Classic warm broth with shredded chicken, sweet corn kernels, egg ribbons, and house condiments.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": false
+    },
+    {
+      "id": "soup-hot-sour",
+      "name": "Hot & Sour Soup",
+      "category": "Soups",
+      "description": "Rich spicy and tangy soup prepared with chicken, mushrooms, bamboo shoots, and black pepper.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": true
+    },
+    {
+      "id": "soup-urban-special",
+      "name": "Urban Special Family Soup Bowl",
+      "category": "Soups",
+      "description": "Hearty sharing bowl with chicken, prawns, vegetables, and crispy crackers.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": false
+    },
+    {
+      "id": "deal-burger-duo",
+      "name": "Urban Burger & Fries Combo Deal",
+      "category": "Urban Special Burger & Pizza Deals",
+      "description": "Choice of signature burger served with seasoned fries and chilled soft beverage. [TODO: Confirm exact deal inclusions with owner]",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": true
+    },
+    {
+      "id": "deal-family-pizza-burger",
+      "name": "Family Pizza & Burger Sharing Deal",
+      "category": "Urban Special Burger & Pizza Deals",
+      "description": "Large pizza paired with two burgers, crispy wings, and family pitcher drink. [TODO: Confirm exact deal inclusions with owner]",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": false
+    },
+    {
+      "id": "chinese-chicken-cashew",
+      "name": "Chicken Cashew",
+      "category": "Chinese",
+      "description": "Wok-seared chicken cubes tossed with roasted cashew nuts, bell peppers, and savory oyster-garlic glaze.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": true
+    },
+    {
+      "id": "chinese-beef-chilli-dry",
+      "name": "Beef Chilli Dry",
+      "category": "Chinese",
+      "description": "Tender julienne beef stir-fried with green chillies, ginger, and scallions, served with steamed or fried rice.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": true
+    },
+    {
+      "id": "chinese-manchurian",
+      "name": "Chicken Manchurian",
+      "category": "Chinese",
+      "description": "Boneless chicken in classic tangy tomato-garlic gravy, ideal with egg fried rice.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": false
+    },
+    {
+      "id": "appetizer-buffalo-wings",
+      "name": "Buffalo Wings",
+      "category": "Appetizers",
+      "description": "Crispy chicken wings glazed in tangy buffalo pepper sauce, served with ranch dip.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": true
+    },
+    {
+      "id": "appetizer-loaded-fries",
+      "name": "Loaded Fries",
+      "category": "Appetizers",
+      "description": "Golden french fries layered with seasoned chicken chunks, melted cheese sauce, jalapenos, and house drizzle.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": true
+    },
+    {
+      "id": "appetizer-finger-fish",
+      "name": "Crispy Finger Fish",
+      "category": "Appetizers",
+      "description": "Crumb-fried fish strips served with tartar sauce and seasoned fries.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": false
+    },
+    {
+      "id": "noodles-chicken-chowmein",
+      "name": "Chicken Chowmein",
+      "category": "Chopsuey & Noodles",
+      "description": "Wok-tossed egg noodles with julienne chicken, cabbage, carrots, capsicum, and dark soy seasoning.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": true
+    },
+    {
+      "id": "noodles-american-chopsuey",
+      "name": "American Chopsuey",
+      "category": "Chopsuey & Noodles",
+      "description": "Crispy fried noodles topped with sweet and tangy vegetable-chicken gravy and a fried egg.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": false
+    },
+    {
+      "id": "platter-urban-sharing",
+      "name": "Urban Special Mix Platter",
+      "category": "Platters",
+      "description": "Assorted sharing platter with grilled chicken, wings, loaded fries, garlic bread, and dips. [TODO: Confirm platter items with owner]",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": true
+    },
+    {
+      "id": "platter-chinese-combo",
+      "name": "Chinese Rice & Gravy Platter",
+      "category": "Platters",
+      "description": "Combination serving of egg fried rice, chicken chowmein, and choice of Chinese gravy.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": false
+    },
+    {
+      "id": "salad-russian",
+      "name": "Creamy Russian Salad",
+      "category": "Salads",
+      "description": "Chilled diced apples, potatoes, peas, carrots, and pineapple folded in lightly sweetened dressing.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": false
+    },
+    {
+      "id": "salad-grilled-chicken",
+      "name": "Grilled Chicken Caesar Salad",
+      "category": "Salads",
+      "description": "Crisp iceberg lettuce, herb-grilled chicken strips, croutons, olives, and parmesan dressing.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": false
+    },
+    {
+      "id": "pizza-urban-special",
+      "name": "Urban Pizza",
+      "category": "Pizza",
+      "description": "House special pizza topped with marinated chicken, beef pepperoni, mushrooms, olives, bell peppers, and mozzarella.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": true
+    },
+    {
+      "id": "pizza-pepperoni",
+      "name": "Pepperoni Pizza",
+      "category": "Pizza",
+      "description": "Stone-baked crust layered with rich tomato herb sauce, generous mozzarella, and spiced pepperoni slices.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": true
+    },
+    {
+      "id": "pizza-fajita",
+      "name": "Chicken Fajita Pizza",
+      "category": "Pizza",
+      "description": "Mexican-spiced chicken strips, onions, green peppers, olives, and melted mozzarella cheese.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": false
+    },
+    {
+      "id": "burger-jalapeno",
+      "name": "Jalapeno Burger",
+      "category": "Burgers",
+      "description": "Signature fillet topped with pickled jalapenos, melted cheddar slice, crisp lettuce, and spicy jalapeno mayo.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": true
+    },
+    {
+      "id": "burger-zinger",
+      "name": "Zinger Burger",
+      "category": "Burgers",
+      "description": "Golden crispy fried chicken breast fillet with lettuce and classic house sauce in a sesame bun, served with fries.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": true
+    },
+    {
+      "id": "burger-grilled-beef",
+      "name": "Urban Grilled Beef Burger",
+      "category": "Burgers",
+      "description": "Char-grilled seasoned beef patty with caramelized onions, cheese, and smoky burger sauce.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": false
+    },
+    {
+      "id": "sandwich-club",
+      "name": "Urban Special Club Sandwich",
+      "category": "Sandwiches",
+      "description": "Triple-decker toasted bread layered with grilled chicken, fried egg, cheese, cucumber, tomato, and coleslaw with fries.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": false
+    },
+    {
+      "id": "sandwich-grilled-chicken",
+      "name": "Grilled Chicken Panini Sandwich",
+      "category": "Sandwiches",
+      "description": "Warm pressed sandwich filled with herb-marinated chicken, jalapenos, olives, and melted cheese.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": false
+    },
+    {
+      "id": "rice-egg-fried",
+      "name": "Egg Fried Rice",
+      "category": "Rice Corner",
+      "description": "Fragrant basmati rice wok-tossed with fluffy egg, spring onions, carrots, and light soy seasoning.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": true
+    },
+    {
+      "id": "rice-garlic-chicken",
+      "name": "Chicken Masala & Garlic Rice",
+      "category": "Rice Corner",
+      "description": "Aromatic garlic-infused fried rice topped with stir-fried chicken and crisp vegetables.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": false
+    },
+    {
+      "id": "chicken-monterrey",
+      "name": "Monterrey Chicken",
+      "category": "Chicken Speciality",
+      "description": "Grilled chicken breast topped with rich savory sauce, melted cheese, sauteed vegetables, and mashed potatoes.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": true
+    },
+    {
+      "id": "chicken-wild-mushroom",
+      "name": "Wild Mushroom Chicken",
+      "category": "Chicken Speciality",
+      "description": "Pan-seared chicken fillet finished in creamy roasted wild mushroom and herb reduction with side vegetables.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": true
+    },
+    {
+      "id": "chicken-tarragon",
+      "name": "Tarragon Chicken",
+      "category": "Chicken Speciality",
+      "description": "Tender grilled chicken served in aromatic French tarragon cream sauce with potato sides.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": false
+    },
+    {
+      "id": "seafood-grilled-fish",
+      "name": "Lemon Butter Grilled Fish",
+      "category": "Sea Foods",
+      "description": "Boneless fish fillet grilled with lemon-butter herb glaze, served with sauteed vegetables and fries.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": false
+    },
+    {
+      "id": "seafood-prawns",
+      "name": "Crispy Golden Fried Prawns",
+      "category": "Sea Foods",
+      "description": "Batter-fried prawns served with garlic mayo and sweet chilli dipping sauces.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": false
+    },
+    {
+      "id": "pasta-chicken-mushroom",
+      "name": "Chicken Mushroom Pasta",
+      "category": "Pasta",
+      "description": "Penne or fettuccine tossed in velvety white cream sauce with grilled chicken strips, button mushrooms, and herbs.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": true
+    },
+    {
+      "id": "pasta-creamy-alfredo",
+      "name": "Creamy Alfredo Pasta",
+      "category": "Pasta",
+      "description": "Classic fettuccine pasta folded in rich parmesan-garlic Alfredo cream sauce with seasoned grilled chicken.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": true
+    },
+    {
+      "id": "pasta-parmesan",
+      "name": "Parmesan Pasta",
+      "category": "Pasta",
+      "description": "Oven-finished creamy pasta topped with crusted chicken, aged parmesan, mozzarella, and oregano.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": true
+    },
+    {
+      "id": "steak-moroccan",
+      "name": "Moroccan Steak",
+      "category": "Steaks",
+      "description": "Sizzling char-grilled steak glazed with signature warm Moroccan spice sauce, served with mashed potatoes and grilled vegetables.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": true
+    },
+    {
+      "id": "steak-black-pepper",
+      "name": "Black Peppercorn Steak",
+      "category": "Steaks",
+      "description": "Flame-grilled steak finished with crushed black peppercorn jus, seasonal vegetables, and potato sides.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": false
+    },
+    {
+      "id": "steak-mushroom",
+      "name": "Swiss Mushroom Steak",
+      "category": "Steaks",
+      "description": "Grilled steak topped with creamy mushroom gravy and melted cheese on a cast-iron sizzler plate.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": false
+    },
+    {
+      "id": "drink-mint-margarita",
+      "name": "Mint Margarita",
+      "category": "Cold Beverages",
+      "description": "Refreshing blended fresh mint leaves, lime juice, crushed ice, and sparkling soda.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": true
+    },
+    {
+      "id": "drink-oreo-shake",
+      "name": "Oreo & Chocolate Thick Shake",
+      "category": "Cold Beverages",
+      "description": "Rich dairy ice cream blended with Oreo cookies, chocolate fudge drizzle, and whipped cream.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": true
+    },
+    {
+      "id": "drink-cold-coffee",
+      "name": "Signature Iced Cold Coffee & Shakes",
+      "category": "Cold Beverages",
+      "description": "Chilled espresso blended with milk, vanilla ice cream, and caramel or chocolate notes.",
+      "price": "Rs. ---",
+      "numericPrice": null,
+      "popular": false
+    }
+  ]
+}

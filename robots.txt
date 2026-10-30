@@ -1,0 +1,6 @@
+# robots.txt for Urban Cafe & Restaurant, Abbottabad
+# TODO: Replace https://urbancafeabbottabad.example.com with the confirmed live domain before production launch
+User-agent: *
+Allow: /
+
+Sitemap: https://urbancafeabbottabad.example.com/sitemap.xml

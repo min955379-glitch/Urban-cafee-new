@@ -1,0 +1,6 @@
+{
+  "name": "Urban Cafe & Restaurant — Abbottabad",
+  "description": "Official sample website and WhatsApp ordering experience for Urban Cafe & Restaurant, Jadoon Plaza Phase 2, Mandian, Abbottabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
